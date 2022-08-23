@@ -1,2 +1,23 @@
 # cooltoolurls
 Cool tools as URLs which I personally recommend trying out :)
+
+
+<h3> URL Tools links: </h3>
+<p> https://www.online-qr-scanner.com </p>
+<p> https://fontgenerator.org </p>
+<p> https://vault.bitwarden.com </p>
+<p> https://askinglot.com </p>
+<p> https://cryptpad.org </p>
+<p> https://mee6.xyz </p>
+<p> https://favicon.io </p>
+<p> https://element.io </p>
+<p> https://giphy.com/create/gifmaker </p>
+<p> https://keep.google.com </p>
+<p> https://9convert.com </p>
+<p> https://pasteboard.co </p>
+<p> https://yt2mp3.tech </p>
+<p> https://cloudconvert.com </p>
+<p> https://convertio.co </p>
+<p> https://www.virustotal.com </p>
+<p> https://cssgradient.io </p>
+<p> https://edukits.co </p>
