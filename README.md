@@ -21,3 +21,4 @@ Cool tools as URLs which I personally recommend trying out :)
 <p> https://www.virustotal.com </p>
 <p> https://cssgradient.io </p>
 <p> https://edukits.co </p>
+<p> https://app.simplelogin.io </p>
