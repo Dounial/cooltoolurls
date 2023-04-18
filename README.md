@@ -22,3 +22,7 @@ Cool tools as URLs which I personally recommend trying out :)
 <p> https://cssgradient.io </p>
 <p> https://edukits.co </p>
 <p> https://app.simplelogin.io </p>
+<p> https://paint.js.org </p>
+<p>  https://privnote.com </p>
+<p> https://large-type.com </p>
+<p> https://shrtco.de </p>
