@@ -26,3 +26,12 @@ Cool tools as URLs which I personally recommend trying out :)
 <p>  https://privnote.com </p>
 <p> https://large-type.com </p>
 <p> https://shrtco.de </p>
+<p> https://dpaste.org</p>
+<p> https://ssd.eff.org</p>
+<p> https://catbox.moe</p>
+<p> https://litterbox.catbox.moe</p>
+<p> https://large-type.com</p>
+<p> https://themes.vscode.one</p>
+<p> https://archive.is</p>
+<p> https://clideo.com</p>
+<p> https://invidious.io</p>
